@@ -15,3 +15,9 @@ Pasos para clonar un repositorio
 - Luego de crear el repositorioy realizar todas las configuraciones necesarias, seleccionar el botón `CODE` y copiar el link HTTPS a la consola de Git.
 
 # CREAR UN COMMIT EN UN REPOSITORIO CLONADO
+
+Usar el comando `git commit o git commit -m` para crear el commit de confirmación antes de subir al repositorio remoto.
+
+# ENVIAR CAMBIOS A GITHUB
+
+-- git push: Comando usado para enviar los cambios realizados en un repositorio local a un repositorio remoto para que ambos tengan la misma información.
