@@ -21,3 +21,11 @@ Usar el comando `git commit o git commit -m` para crear el commit de confirmaci�
 # ENVIAR CAMBIOS A GITHUB
 
 -- git push: Comando usado para enviar los cambios realizados en un repositorio local a un repositorio remoto para que ambos tengan la misma información.
+
+# CONFIGUAR HTTPS CON UN TOKEN
+
+- Crear un tokens nuevos con los permisos necesarios y guardar el tokens para utilizarlo en la interfaz del repositorio remoto (New).
+
+# INCORPORAR CAMBIOS CON PULL (Update local repository)
+
+-- git push: Comando usado para descargar el contenido de un repositorio remoto e inmediatamente actualizar un repositorio local para que ambos tengan la misma información.
